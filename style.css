@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.start{
+    position: absolute;
+    z-index: 1;
+}
+.showkeys{
+    position: absolute;
+    z-index: 1;
+    left: 100px;
+}
+
+.game-cointainer{
+    position:absolute;
+    text-align: center;
+    justify-content: center;
+
+
+}
